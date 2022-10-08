@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @MishaVyb
-- 👀 I’m interested in Cinematography
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on usefull projects
+👋 Hi, I’m @MishaVyb
+
+......
+
+- 👀 Also I’m really interested in Cinematography.
 - 📫 To reach me, you could send me a message on vbrn.mv@gmail.com or https://t.me/mishaviborniy
 
 <!---
