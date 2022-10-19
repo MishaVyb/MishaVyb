@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-vbrn.mv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vbrn.mv@gmail.com)](mailto:vbrn.mv@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-mikhail_vybornyy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/)](https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/) 
-[![Portfolio Badge](https://img.shields.io/badge/resume-web-blue?style=flat&link=https://mishavyb.github.io//)](https://mishavyb.github.io/) 
+[![Page Badge](https://img.shields.io/badge/persanal--page-web-blue?style=flat&link=https://mishavyb.github.io//)](https://mishavyb.github.io/) 
 [![Telegram Badge](https://img.shields.io/badge/-mishaviborniy-blue?style=social&logo=telegram&link=https://t.me/mishaviborniy)](https://t.me/mishaviborniy) <p align='left'>
  
 
