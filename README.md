@@ -1,26 +1,26 @@
 ## Hey 👋, This is Misha Vybornyy
 
-[![Gmail Badge](https://img.shields.io/badge/-vbrn.mv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vbrn.mv@gmail.com)](mailto:vbrn.mv@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-mikhail_vybornyy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/)](https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/) [![Portfolio Badge](https://img.shields.io/badge/resume-web-blue?style=flat&link=https://mishavyb.github.io//)](https://mishavyb.github.io/) <p align='left'>
+[![Gmail Badge](https://img.shields.io/badge/-vbrn.mv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vbrn.mv@gmail.com)](mailto:vbrn.mv@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mikhail_vybornyy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/)](https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/) 
+[![Portfolio Badge](https://img.shields.io/badge/resume-web-blue?style=flat&link=https://mishavyb.github.io//)](https://mishavyb.github.io/) 
+[![Telegram Badge](https://img.shields.io/badge/-mishaviborniy-blue?style=social&logo=telegram&link=https://t.me/mishaviborniy)](https://t.me/mishaviborniy) <p align='left'>
+ 
 
-- 🛠 I'm backend developer. 
-- 🐍 In love with Python. 
+- 🛠 I'm backend developer
+- 🐍 In love with Python
 - 📖 Study at Yandex.Praktikum
-- 🇷🇺 Originally from Russia. 
-- 👀 Interested in Cinematography. 
-- ⛰ Hiking mountains.
+- 🇷🇺 Originally from Russia
+- 👀 Interested in Cinematography
+- ⛰ Hiking mountains
 
-### Have a look at my latest project. 
-Any contributions are greatly appreciated.
-- Card Game
-[![Github Badge](https://img.shields.io/badge/-Bizarre--Poker-red?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bizarre-poker)](https://github.com/MishaVyb/bizarre-poker)
+## Have a look at my latest project
+[![Github Badge](https://img.shields.io/badge/-Bizarre--Poker-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bizarre-poker)](https://github.com/MishaVyb/bizarre-poker) Single page application to play in Poker cards game. 
 
-- Social Networks
-[![Github Badge](https://img.shields.io/badge/-Bizarre--Poker-red?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bizarre-poker)](https://github.com/MishaVyb/bizarre-poker)
-  
-- Telegram Bot
-[![Github Badge](https://img.shields.io/badge/-Bizarre--Poker-red?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bizarre-poker)](https://github.com/MishaVyb/bizarre-poker)
-  
+[![Github Badge](https://img.shields.io/badge/-YaMDB-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/YaMDB)](https://github.com/MishaVyb/YaMDB) API for social network with users reviews. 
+
+[![Github Badge](https://img.shields.io/badge/-BartBot-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bart-bot)](https://github.com/MishaVyb/bart-bot) Telegram bot to handle your pet photos. 
+
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MishaVyb alt=MishaVyb /> </p>
 
