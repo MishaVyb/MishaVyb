@@ -10,8 +10,15 @@
 - 👀 Interested in Cinematography. 
 - ⛰ Hiking mountains.
 
-# Have a look at my last project. 
+### Have a look at my latest project. 
 Any contributions are greatly appreciated.
+- Card Game
+[![Github Badge](https://img.shields.io/badge/-Bizarre--Poker-red?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bizarre-poker)](https://github.com/MishaVyb/bizarre-poker)
+
+- Social Networks
+[![Github Badge](https://img.shields.io/badge/-Bizarre--Poker-red?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bizarre-poker)](https://github.com/MishaVyb/bizarre-poker)
+  
+- Telegram Bot
 [![Github Badge](https://img.shields.io/badge/-Bizarre--Poker-red?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bizarre-poker)](https://github.com/MishaVyb/bizarre-poker)
   
 ## Some of my Github Stats
