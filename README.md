@@ -8,17 +8,24 @@
 
 - 🛠 I'm backend developer
 - 🐍 In love with Python
-- 📖 Study at Yandex.Praktikum
-- 🇷🇺 Originally from Russia
+- 📖 Learning React
+- 🇷🇺 Originally from Russia 🇬🇪 Currently in Georgia
 - 👀 Interested in Cinematography
 - ⛰ Hiking mountains
 
 ## Have a look at my latest project
-[![Github Badge](https://img.shields.io/badge/-Bizarre--Poker-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bizarre-poker)](https://github.com/MishaVyb/bizarre-poker) Single page application to play in Poker cards game. 
+### [Bart Bot](https://github.com/MishaVyb/bart-bot)
+![](https://img.shields.io/badge/PTB-20.1-blue) ![](https://img.shields.io/badge/Pyrogram-2.0.1-blue) ![](https://img.shields.io/badge/Anyio-3.6.2-blue) ![](https://img.shields.io/badge/SQLAlchemy-2.0.4-blue) <br>
+Telegram bot to handle your pet photos. 
 
-[![Github Badge](https://img.shields.io/badge/-YaMDB-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/YaMDB)](https://github.com/MishaVyb/YaMDB) API for social network with users reviews. 
+### [Weather Collector](https://github.com/MishaVyb/weather-collector)
+![](https://img.shields.io/badge/Pydantic-1.10.2-blue) ![](https://img.shields.io/badge/APScheduler-3.9.1-blue) ![](https://img.shields.io/badge/SQLAlchemy-1.4.4-blue) <br>
+CLI application to collect and store weather in different cities. 
 
-[![Github Badge](https://img.shields.io/badge/-BartBot-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/MishaVyb/bart-bot)](https://github.com/MishaVyb/bart-bot) Telegram bot to handle your pet photos. 
+
+### [Bizarre Poker](https://github.com/MishaVyb/bizarre-poker)
+![](https://img.shields.io/badge/Django-4.1-blue) ![](https://img.shields.io/badge/DRF-3.13-blue) ![](https://img.shields.io/badge/Pytest-7.1.2-blue) <br>
+Single page web application to play in Poker. 
 
 
 ## Some of my Github Stats
