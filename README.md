@@ -6,13 +6,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-mishaviborniy-blue?style=social&logo=telegram&link=https://t.me/mishaviborniy)](https://t.me/mishaviborniy) <p align='left'>
  
 
-- 🛠 I'm backend developer
-- 🐍 In love with Python
-- 📖 Learning React
-- 🇷🇺 Originally from Russia 🇬🇪 Currently in Georgia
-- 👀 Interested in Cinematography
-- ⛰ Hiking mountains
-
 ## Have a look at my latest project
 ### [Bart Bot](https://github.com/MishaVyb/bart-bot)
 ![](https://img.shields.io/badge/PTB-20.1-blue) ![](https://img.shields.io/badge/Pyrogram-2.0.1-blue) ![](https://img.shields.io/badge/Anyio-3.6.2-blue) ![](https://img.shields.io/badge/SQLAlchemy-2.0.4-blue) <br>
