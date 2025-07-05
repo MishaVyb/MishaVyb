@@ -1,4 +1,4 @@
-## Hey 👋, This is Misha Vybornyy
+## Hey 👋, This is Mikhail Vybornyi
 
 [![Gmail Badge](https://img.shields.io/badge/-vbrn.mv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vbrn.mv@gmail.com)](mailto:vbrn.mv@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/)](https://www.linkedin.com/in/mikhail-vybornyi/) 
