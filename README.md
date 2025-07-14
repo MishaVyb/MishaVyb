@@ -7,7 +7,7 @@
 Software engineer with years of experience in WEB & GameDev, primarily focused on backend engineering. Confident in Python and a wide range of tools used to build and maintain scalable backend systems. Comfortable with Full Stack development and implementing solutions that positively impact user experience. 
 
 ## Have a look at my latest project
-### [Objective REST API](https://github.com/MishaVyb/bart-bot)
+### [Objective REST API](https://github.com/MishaVyb/objective)
 ![](https://img.shields.io/badge/fastapi-0.108.0-blue) ![](https://img.shields.io/badge/pydantic-2.0-blue) ![](https://img.shields.io/badge/SQLAlchemy-2.0.18-blue) <br>
 Wep Application to simplify and enhance the process of planning film sets and visual storytelling.
 
