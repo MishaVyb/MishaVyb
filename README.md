@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-vybornyy-2a510a253/)](https://www.linkedin.com/in/mikhail-vybornyi/) 
 [![Telegram Badge](https://img.shields.io/badge/-mishaviborniy-blue?style=social&logo=telegram&link=https://t.me/mishaviborniy)](https://t.me/mishaviborniy) <p align='left'>
 
-Software engineer with years of experience in WEB & GameDev, primarily focused on backend engineering. Confident in Python and a wide range of tools used to build and maintain scalable backend systems. Comfortable with Full Stack development and implementing solutions that positively impact user experience. 
+Software engineer with years of experience developing web applications in Python. Specialised in building  REST APIs from the ground up, integrating LLMs, maintaining CI/CD systems, configuring AWS deployment and implementing asynchronous inter-service communication. Successfully worked in international teams, solving complex challenges and implementing best development practices.
 
 ## Have a look at my latest project
 ### [Objective REST API](https://github.com/MishaVyb/objective)
@@ -14,10 +14,6 @@ Wep Application to simplify and enhance the process of planning film sets and vi
 ### [Bart Bot](https://github.com/MishaVyb/bart-bot)
 ![](https://img.shields.io/badge/PTB-20.1-blue) ![](https://img.shields.io/badge/Pyrogram-2.0.1-blue) ![](https://img.shields.io/badge/Anyio-3.6.2-blue) ![](https://img.shields.io/badge/SQLAlchemy-2.0.4-blue) <br>
 Telegram bot to handle your pet photos. 
-
-### [Weather Collector](https://github.com/MishaVyb/weather-collector)
-![](https://img.shields.io/badge/Pydantic-1.10.2-blue) ![](https://img.shields.io/badge/APScheduler-3.9.1-blue) ![](https://img.shields.io/badge/SQLAlchemy-1.4.4-blue) <br>
-CLI application to collect and store weather in different cities. 
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MishaVyb alt=MishaVyb /> </p>
